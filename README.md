@@ -1,1 +1,1 @@
-"# My First Project" 
+-e "# My First Project\n\nRun the app:\n\n\`\`\`\npython main.py\n\`\`\`\n" 
