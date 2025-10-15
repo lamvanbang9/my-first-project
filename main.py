@@ -2,3 +2,6 @@
 "def greet(name):" 
 "    print(f'Hello, {name}!')" 
 "print('Welcome to my-first-project!')" 
+"" 
+"def calculate_sum(numbers):" 
+"    return sum(numbers)" 
