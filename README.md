@@ -1,7 +1,1 @@
-"# My first project" 
-"## Description" 
-"This project is my first GitHub practice repository." 
-"## How to Run" 
-"Run the app using: \`python main.py\`" 
-"## Configuration" 
-"Project uses config.json for version and author metadata." 
+"# My First Project" 
