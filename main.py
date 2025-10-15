@@ -5,3 +5,6 @@
 "" 
 "def calculate_sum(numbers):" 
 "    return sum(numbers)" 
+"" 
+"def greet_return(name):" 
+"    return f'Hello, {name}!'" 
