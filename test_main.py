@@ -2,3 +2,7 @@
 "greet('World')" 
 "" 
 "print('Sum =', sum([1, 2, 3]))" 
+"" 
+"if __name__ == '__main__':" 
+"    from main import calculate_sum" 
+"    print('Sum test:', calculate_sum([4, 5, 6]))" 
